@@ -7,7 +7,7 @@ import BannerLanding from '../components/BannerLanding'
 export default () => (
     <Layout>
         <Head>
-            <title>Landing Page</title>
+            <title>My Life</title>
             <meta name="description" content="Landing Page" />
         </Head>
 
@@ -18,7 +18,7 @@ export default () => (
                 <section id="one">
                     <div className="inner">
                         <header className="major">
-                            <h2>Sed amet aliquam</h2>
+                            <h2>My Life</h2>
                         </header>
                         <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
                     </div>
