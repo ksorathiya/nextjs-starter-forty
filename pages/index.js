@@ -10,7 +10,7 @@ export default () => (
 
             <div id="main">
                 <section id="one" className="tiles">
-                    <article style={{backgroundImage: `url('/static/images/pic01.jpg')`}}>
+                    <article style={{backgroundImage: `url('/static/images/myMemoji.png')`}}>
                         <header className="major">
                             <h3>My Life</h3>
                             <p>This is my life!</p>
