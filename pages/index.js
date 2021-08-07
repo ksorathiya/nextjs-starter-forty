@@ -15,21 +15,21 @@ export default () => (
                             <h3>My Life</h3>
                             <p>This is my life!</p>
                         </header>
-                        <Link href="/landing"><a className="link primary"></a></Link>
+                        <Link href="/landing-life"><a className="link primary"></a></Link>
                     </article>
                     <article style={{backgroundImage: `url('/static/images/pic02.jpg')`}}>
                         <header className="major">
                             <h3>My Work</h3>
                             <p>feugiat amet tempus</p>
                         </header>
-                        <Link href="/landing"><a className="link primary"></a></Link>
+                        <Link href="/landing-work"><a className="link primary"></a></Link>
                     </article>
                     <article style={{backgroundImage: `url('/static/images/pic03.jpg')`}}>
                         <header className="major">
                             <h3>My Car</h3>
                             <p>Lorem etiam nullam</p>
                         </header>
-                        <Link href="/landing"><a className="link primary"></a></Link>
+                        <Link href="/landing-car"><a className="link primary"></a></Link>
                     </article>
                     <article style={{backgroundImage: `url('/static/images/pic04.jpg')`}}>
                         <header className="major">
